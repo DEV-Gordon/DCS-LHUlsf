@@ -14,7 +14,6 @@ This project allows you to export real-time telemetry from **DCS World** to an e
   - Flight angles (pitch, roll, yaw)
   - Vertical speed
   - Mach number and angle of attack
-  - Geographic coordinates (latitude/longitude)
 - Real-time, low FPS impact
 - Compatible with any DCS aircraft
 
