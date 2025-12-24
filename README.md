@@ -17,3 +17,7 @@ This project allows you to export real-time telemetry from **DCS World** to an e
   - Geographic coordinates (latitude/longitude)
 - Real-time, low FPS impact
 - Compatible with any DCS aircraft
+
+## DCS Documentation
+- [DCS Export:](https://wiki.hoggitworld.com/view/DCS_export)
+- [Exports player flight information:](https://wiki.hoggitworld.com/view/DCS_Export_Script)
